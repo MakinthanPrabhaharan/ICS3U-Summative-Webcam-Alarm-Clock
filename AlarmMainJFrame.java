@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 public class AlarmMainJFrame extends JFrame {
 	
 	//declaring a string constant to hold the directory of all of the files used in the program
-	final static String GAMEFILES = "C:\\Users\\padch\\OneDrive\\Documents\\SummativeICS3UFiles" + "\\";
+	final static String GAMEFILES = "C:\\";
 	
 	//initializing a JPanel on which all of the pages of the alarm clock will be displayed
 	static JPanel pageDisplayJPanel = new JPanel();
